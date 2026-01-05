@@ -8,3 +8,7 @@ public static void main(String[] args)
 {
 }
 ```
+
+- [ ] Trun on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
